@@ -1,5 +1,7 @@
 # Override function Extension for PHP #
 
+[![Build Status](https://secure.travis-ci.org/kjdev/php-ext-override.png?branch=master)](http://travis-ci.org/kjdev/php-ext-override)
+
 This extension allows overrides functions.
 
 ## Function ##
