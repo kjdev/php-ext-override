@@ -7,6 +7,7 @@
 #include "php_ini.h"
 #include "ext/standard/info.h"
 #include "ext/standard/php_string.h"
+#include "php_verdep.h"
 #include "php_override.h"
 
 ZEND_FUNCTION(override_function);
